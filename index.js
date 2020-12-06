@@ -14,8 +14,8 @@ module.exports = themeConfig => {
         link: '/',
       },
       {
-        text: 'About',
-        link: '/about/',
+        text: 'Rental Mobil Yogya',
+        link: '/rental-mobil-yogyakarta/',
       },
       {
         text: 'Sewa Motor',
@@ -57,14 +57,15 @@ module.exports = themeConfig => {
     } = themeConfig.feed
     resolvedFeedOptions = Object.assign({}, feedOptions, {
       feeds: {
-        rss2: { disable: rss },
-        atom1: { disable: atom },
-        json1: { disable: json },
+        rss2: { enable: rss },
+        atom1: { enable: atom },
+        json1: { enable: json },
       },
     })
   }
 
   const properties = [
+    'directories',
     'globalPagination',
     'sitemap',
   ]
