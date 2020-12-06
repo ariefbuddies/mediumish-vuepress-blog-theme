@@ -12,6 +12,9 @@ export default {
   name: 'PostMeta',
   components: {PostTag },
   props: {
+    tags: {
+      type: [Array, String],
+    },
     author: {
       type: String,
     },
