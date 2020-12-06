@@ -1,15 +1,12 @@
 ---
 title: Leaving Las Vegas
 date: 2019-5-6
-tags: 
-  - theme
-  - blog
-  - vuepress
+tags: []
 author: John Doe
-featuredimg: 'https://images.unsplash.com/photo-1582996091947-7c50ca745bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80'
+featuredimg: https://images.unsplash.com/photo-1582996091947-7c50ca745bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1049&q=80
 summary: We find that Nature has made many wonderful provisions.
----
 
+---
 On surveying the various regions of the torrid zone, we find that Nature has made many wonderful provisions to mitigate the heat of the vertical sun, to endow the equatorial lands with an amazing variety of climate, and to extend the benefit of the warmth generated within the tropics to countries situated far beyond their bounds.
 
 Thus, while the greater part of the northern temperate zone is occupied by land, the floods of ocean roll over by far the greater portion of the equatorial regions—for both torrid America and Africa appear as mere islands in a vast expanse of sea.
