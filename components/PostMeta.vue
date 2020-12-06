@@ -6,15 +6,12 @@
 
 <script>
 import dayjs from 'dayjs'
-
+nimport PostTag from './PostTag.vue'
 
 export default {
   name: 'PostMeta',
   components: {PostTag },
   props: {
-    tags: {
-      type: [Array, String],
-    },
     author: {
       type: String,
     },
