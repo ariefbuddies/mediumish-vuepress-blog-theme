@@ -9,13 +9,13 @@ module.exports = {
   authors: [
       {
       name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
+      avatar: '',
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
       },
       {
         name: 'John Doe',
-        avatar: '/assets/img/avatar.png',
+        avatar: '',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
