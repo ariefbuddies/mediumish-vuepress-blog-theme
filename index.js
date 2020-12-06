@@ -14,7 +14,7 @@ module.exports = themeConfig => {
         link: '/',
       },
       {
-        text: 'Rental Mobil Yogya',
+        text: 'Rental Mobil',
         link: '/rental-mobil-yogyakarta/',
       },
       {
