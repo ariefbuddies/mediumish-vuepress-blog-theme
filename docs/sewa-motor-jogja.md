@@ -58,9 +58,9 @@ clear: both;
 <div class="column" style="background-color:#aaa;">
 
     Honda Beat
-    Umum 70k/Hari
-    Pelajar 60k/Hari
-    ------------------
+    Umum 70 Ribu
+    Pelajar 60 Ribu
+    -------------
 
 </div>
 
@@ -68,6 +68,8 @@ clear: both;
 
     Honda Scoopy
     Umum 75 Ribu
+
+![](/assets/img/sal.jpg)
 
 </div>
 
