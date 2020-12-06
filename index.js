@@ -66,7 +66,6 @@ module.exports = themeConfig => {
 
   const properties = [
     'globalPagination',
-    'sitemap',
   ]
   const themeConfigPluginOptions = {
     ...pick(themeConfig, properties),
