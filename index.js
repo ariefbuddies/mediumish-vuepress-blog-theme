@@ -41,15 +41,8 @@ module.exports = themeConfig => {
         path: '/',
       },
     ],
-    frontmatters: [
-      {
-        id: 'tag',
-        keys: ['tags'],
-        path: '/tag/',
-      },
-    ],
     globalPagination: {
-      lengthPerPage: 6,
+      lengthPerPage: 8,
     },
   }
 
