@@ -6,7 +6,7 @@
 
 <script>
 import dayjs from 'dayjs'
-nimport PostTag from './PostTag.vue'
+import PostTag from './PostTag.vue'
 
 export default {
   name: 'PostMeta',
