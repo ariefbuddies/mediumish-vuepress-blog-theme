@@ -14,10 +14,6 @@ module.exports = themeConfig => {
         link: '/',
       },
       {
-        text: 'Tags',
-        link: '/tag/',
-      },
-      {
         text: 'About',
         link: '/about/',
       },
@@ -61,8 +57,8 @@ module.exports = themeConfig => {
   const isFeedEnabled = themeConfig.feed && themeConfig.feed.canonical_base
   if (isFeedEnabled) {
     const {
-      rss = true,
-      atom = true,
+      rss = false,
+      atom = false,
       json = true,
       ...feedOptions
     } = themeConfig.feed
@@ -77,7 +73,6 @@ module.exports = themeConfig => {
 
   const properties = [
     'directories',
-    'frontmatters',
     'globalPagination',
     'sitemap',
   ]
