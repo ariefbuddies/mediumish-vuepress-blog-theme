@@ -57,17 +57,17 @@ clear: both;
 
 <div class="column" style="background-color:#aaa;">
 
-    <h2>Honda Beat</h2>
-    <p>Umum 70k/Hari</p>
-    <p>Mhs 60k/Hari</p>
-    <hr>
+    Honda Beat
+    Umum 70k/Hari
+    Pelajar 60k/Hari
+    ------------------
 
 </div>
 
 <div class="column" style="background-color:#bbb;">
 
-    <h3>Honda Scoopy</h3>
-    <hr>
+    Honda Scoopy
+    Umum 75 Ribu
 
 </div>
 
