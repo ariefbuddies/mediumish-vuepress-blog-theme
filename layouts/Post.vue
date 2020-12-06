@@ -17,7 +17,6 @@ itemtype="https://schema.org/BlogPosting"
   </h1>
   <p class="lead">{{ $frontmatter.description }}</p>
 
-  <Avatar />
 
   </header>
   </div>
