@@ -80,7 +80,6 @@ module.exports = themeConfig => {
     'frontmatters',
     'globalPagination',
     'sitemap',
-    'comment',
   ]
   const themeConfigPluginOptions = {
     ...pick(themeConfig, properties),
