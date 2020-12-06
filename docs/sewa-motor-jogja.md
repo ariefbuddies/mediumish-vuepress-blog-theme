@@ -57,17 +57,18 @@ clear: both;
 
 <div class="column" style="background-color:#aaa;">
 
-    <h2>Column 1</h2>
-    
-    <p>Some text..</p>
+    <h2>Honda Beat</h2>
+    <p>Umum 70k/Hari</p>
+    <p>Mhs 60k/Hari</p>
+    <hr>
 
 </div>
 
 <div class="column" style="background-color:#bbb;">
 
-    <h2>Column 2</h2>
     
-    <p>Some text..</p>
+    
+    
 
 </div>
 
