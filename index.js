@@ -57,15 +57,16 @@ module.exports = themeConfig => {
     } = themeConfig.feed
     resolvedFeedOptions = Object.assign({}, feedOptions, {
       feeds: {
-        rss2: { enable: rss },
-        atom1: { enable: atom },
-        json1: { enable: json },
+        rss2: { disable: rss },
+        atom1: { disable: atom },
+        json1: { disable: json },
       },
     })
   }
 
   const properties = [
     'globalPagination',
+    'sitemap',
   ]
   const themeConfigPluginOptions = {
     ...pick(themeConfig, properties),
