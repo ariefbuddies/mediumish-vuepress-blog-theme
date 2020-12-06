@@ -66,9 +66,8 @@ clear: both;
 
 <div class="column" style="background-color:#bbb;">
 
-    
-    
-    
+    <h3>Honda Scoopy</h3>
+    <hr>
 
 </div>
 
