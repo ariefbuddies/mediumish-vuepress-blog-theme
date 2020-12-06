@@ -8,13 +8,13 @@ module.exports = {
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
+      name: '',
       avatar: '',
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
       },
       {
-        name: 'John Doe',
+        name: '',
         avatar: '',
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
