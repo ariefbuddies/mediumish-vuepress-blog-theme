@@ -59,7 +59,7 @@ module.exports = themeConfig => {
     const {
       rss = false,
       atom = false,
-      json = true,
+      json = false,
       ...feedOptions
     } = themeConfig.feed
     resolvedFeedOptions = Object.assign({}, feedOptions, {
