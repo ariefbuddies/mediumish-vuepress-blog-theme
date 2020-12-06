@@ -15,7 +15,7 @@ description: Sewa motor jogja
 
 \* {
 
-  box-sizing: border-box;
+box-sizing: border-box;
 
 }
 
@@ -23,13 +23,13 @@ description: Sewa motor jogja
 
 .column {
 
-  float: left;
+float: left;
 
-  width: 50%;
+width: 50%;
 
-  padding: 10px;
+padding: 10px;
 
-  height: 300px; /* Should be removed. Only for demonstration */
+height: 300px; /* Should be removed. Only for demonstration */
 
 }
 
@@ -37,21 +37,11 @@ description: Sewa motor jogja
 
 .row:after {
 
-  content: "";
-
-  display: table;
-
-  clear: both;
-
-}
-
-</style>
-
-</head>
+content: "";
 
 display: table;
 
-  clear: both;
+clear: both;
 
 }
 
@@ -65,21 +55,21 @@ display: table;
 
 <div class="row">
 
-  <div class="column" style="background-color:#aaa;">
+<div class="column" style="background-color:#aaa;">
 
     <h2>Column 1</h2>
-
+    
     <p>Some text..</p>
 
-  </div>
+</div>
 
-  <div class="column" style="background-color:#bbb;">
+<div class="column" style="background-color:#bbb;">
 
     <h2>Column 2</h2>
-
+    
     <p>Some text..</p>
 
-  </div>
+</div>
 
 </div>
 
