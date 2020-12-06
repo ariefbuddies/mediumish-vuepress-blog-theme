@@ -5,7 +5,7 @@ description: Rental mobil wong jogja dan sekitarnya saja
 ---
 > **All New Avanza Automatic**
 >
->      Lepas Kunci
+>  Lepas Kunci
 >
 > * 12j / 250k
 > * 24j / 300k
