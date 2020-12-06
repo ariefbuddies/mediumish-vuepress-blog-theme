@@ -1,8 +1,8 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Bening Abadi Jogja',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
+  description: 'Sewa Motor Rental Mobil Penginapan Jogja',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
