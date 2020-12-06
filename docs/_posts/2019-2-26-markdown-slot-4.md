@@ -1,14 +1,12 @@
 ---
 title: Markdown Slot 4
 date: 2019-2-26
-tags: 
-  - markdown
-  - vuepress
+tags: []
 author: John Doe
 featuredimg: https://images.unsplash.com/photo-1566224425427-998503a013f6?ixlib=rb-1.2.1&auto=format&fit=crop&w=898&q=80
 summary: Implementing markdown files, provders of metadata.
----
 
+---
 VuePress implements a content distribution API for Markdown. With this feature, you can split your document into multiple fragments to facilitate flexible composition in the layout component.
 
 ## Why do I need Markdown Slot?
