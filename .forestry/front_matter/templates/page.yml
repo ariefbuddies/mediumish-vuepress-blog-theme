@@ -14,4 +14,5 @@ fields:
   label: description
 pages:
 - docs/about.md
+- docs/rental-mobil-yogyakarta.md
 - docs/sewa-motor-jogja.md
