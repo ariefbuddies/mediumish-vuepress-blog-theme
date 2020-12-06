@@ -9,7 +9,6 @@ module.exports = {
   authors: [
       {
       name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
       },
