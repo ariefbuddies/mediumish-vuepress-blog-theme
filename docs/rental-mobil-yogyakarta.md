@@ -1,6 +1,6 @@
 ---
 title: Rental Mobil Yogyakarta
-description: Rental mobil wong jogja
+description: Rental mobil wong jogja dan sekitarnya
 
 ---
 > **All New Avanza Automatic**                 
