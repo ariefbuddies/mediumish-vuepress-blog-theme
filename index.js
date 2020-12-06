@@ -42,7 +42,7 @@ module.exports = themeConfig => {
       },
     ],
     globalPagination: {
-      lengthPerPage: 8,
+      lengthPerPage: 12,
     },
   }
 
@@ -65,7 +65,6 @@ module.exports = themeConfig => {
   }
 
   const properties = [
-    'directories',
     'globalPagination',
     'sitemap',
   ]
