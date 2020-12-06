@@ -21,6 +21,10 @@ module.exports = themeConfig => {
         text: 'About',
         link: '/about/',
       },
+      {
+        text: 'Sewa Motor',
+        link: '/sewa-motor-jogja/',
+      },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:
