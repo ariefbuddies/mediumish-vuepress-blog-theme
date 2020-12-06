@@ -1,6 +1,6 @@
 ---
 title: Sewa Motor Jogja
-description: Sewa motor jogja
+description: Sewa motor untuk wong jogja
 
 ---
 <!DOCTYPE html>
