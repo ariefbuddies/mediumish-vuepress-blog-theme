@@ -29,7 +29,7 @@ width: 50%;
 
 padding: 10px;
 
-height: 300px; /* Should be removed. Only for demonstration */
+height: 600px; /* Should be removed. Only for demonstration */
 
 }
 
@@ -51,7 +51,7 @@ clear: both;
 
 <body>
 
-<h2>Two Equal Columns</h2>
+<h2>Daftar Motor Rental</h2>
 
 <div class="row">
 
@@ -61,6 +61,8 @@ clear: both;
     Umum 70 Ribu
     Pelajar 60 Ribu
     -------------
+
+![](/assets/img/avatar.png)
 
 </div>
 
