@@ -1,6 +1,6 @@
 ---
 title: Rental Mobil Yogyakarta
-description: Rental mobil wong jogjaa
+description: Rental mobil wong jogja
 
 ---
 
