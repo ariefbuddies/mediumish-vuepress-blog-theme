@@ -1,14 +1,12 @@
 ---
 title: What's the most beautiful website in the world
 date: 2020-1-28
-tags: 
-  - frontmatter
-  - vuepress
+tags: []
 author: John Doe
-featuredimg: 'https://images.unsplash.com/photo-1568777036071-f9a769596a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE3MzYxfQ&auto=format&fit=crop&w=1351&q=80'
+featuredimg: https://images.unsplash.com/photo-1568777036071-f9a769596a49?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE3MzYxfQ&auto=format&fit=crop&w=1351&q=80
 summary: Any website that uses a static generator.
----
 
+---
 Any markdown file that contains a YAML front matter block will be processed by [gray-matter](https://github.com/jonschlinkert/gray-matter). The front matter must be the first thing in the markdown file and must take the form of valid YAML set between triple-dashed lines. Here is a basic example:
 
 ```markdown
