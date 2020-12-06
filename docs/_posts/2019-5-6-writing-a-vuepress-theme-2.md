@@ -1,15 +1,12 @@
 ---
 title: Wonderful diversity of plants and animals
 date: 2019-5-6
-tags: 
-  - theme
-  - blog
-  - vuepress
+tags: []
 author: Sal
 featuredimg: https://images.unsplash.com/photo-1555819207-d089c9205ba5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
-summary: The geographical distribution of the land within the tropics. 
----
+summary: The geographical distribution of the land within the tropics.
 
+---
 The same unequal influence of solar warmth under the line and at the poles, which sets the air in constant motion, also compels the waters of the ocean to perpetual migrations, and produces those wonderful marine currents which like the analogous atmospheric streams, furrow in opposite directions the3 bosom of the sea. Thanks to this salutary interchange, the Gulf Stream, issuing from the Mexican Sea, and thence flowing to the north and east, conveys a portion of its original warmth as far as the west coast of Spitzbergen and Nowaja Semlja; while in the southern hemisphere we see the Peruvian stream impart the refrigerating influence of the antarctic waters to the eastern coast of South America.
 
 The geographical distribution of the land within the tropics likewise tends to counterbalance or to mitigate the excessive heat of a vertical sun; for a glance over the map shows us at once that it is mostly either insular or extending its narrow length between two oceans, thus multiplying the surface over which the sea is able to exert its influence. The Indian Archipelago, the peninsula of Malacca, the Antilles, and Central America, are all undoubtedly indebted to the waters which bathe their coasts for a more temperate climate than that which they would have had if grouped together in one vast continent.
