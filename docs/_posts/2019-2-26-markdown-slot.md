@@ -1,14 +1,12 @@
 ---
 title: Why do I need Markdown Slot
 date: 2019-2-26
-tags: 
-  - markdown
-  - vuepress
+tags: []
 author: Sal
 featuredimg: https://images.unsplash.com/photo-1569851409587-7e3a27cbfe1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=946&q=80
 summary: VuePress implements a content distribution API for Markdown.
----
 
+---
 VuePress implements a content distribution API for Markdown. With this feature, you can split your document into multiple fragments to facilitate flexible composition in the layout component.
 
 ## Why do I need Markdown Slot?
