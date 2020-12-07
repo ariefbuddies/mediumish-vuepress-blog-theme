@@ -27,7 +27,6 @@
   "main": "index.js",
   "scripts": {
     "docs:build": "vuepress build docs --temp docs/.temp",
-    "docs:dev": "vuepress dev docs --temp docs/.temp",
     "lint": "eslint . --ext .js,.vue",
     "prepublishOnly": "npm run test && npm run docs:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
     "test": "jest"
