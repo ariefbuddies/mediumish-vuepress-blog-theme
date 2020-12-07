@@ -7,4 +7,3 @@ featuredimg: "/assets/img/veloz.jpg"
 summary: All New Avanza  (300k lepas kunci)
 
 ---
-![](/assets/img/veloz.jpg)
