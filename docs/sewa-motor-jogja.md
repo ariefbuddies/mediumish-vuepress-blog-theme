@@ -3,30 +3,7 @@ title: Sewa Motor Jogja
 description: Sewa motor untuk wong jogja
 
 ---
-Berikut ini adalah daftar motor yang terdapat di garasi kami.
-
-To write a theme, create a `.vuepress/theme` directory in your docs root, and then create a `Layout.vue` file:
-
-    .
-    └─ .vuepress
-       └─ `theme`
-           └─ Layout.vue
-
-From there it's the same as developing a normal Vue application. It is entirely up to you how to organize your theme.
-
-## Content Outlet
-
-The compiled content of the current `.md` file being rendered will be available as a special `<Content/>` global component. You will need to render it somewhere in your layout in order to display the content of the page. The simplest theme can be just a single `Layout.vue` component with the following content:
-
-    <template>
-      <div class="theme-container">
-        <Content/>
-      </div>
-    </template>
-
-**Also see:**
-
-* [Markdown Slot](../guide/markdown-slot.md)
+    ++++++++++++++++++++++++++++++++++++++++++++
 
 <style>
 
