@@ -146,7 +146,7 @@ float: left;
 
 width: 50%;
 
-padding: 10px;
+padding: 1px;
 
 height: 600px; /* Should be removed. Only for demonstration */
 
