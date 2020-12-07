@@ -44,7 +44,7 @@ width: 50%;
 
 padding: 1px;
 
-height: 200px;
+height: 400px;
 
 }
 
