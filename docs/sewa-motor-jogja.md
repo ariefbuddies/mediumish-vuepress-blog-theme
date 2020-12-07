@@ -44,11 +44,9 @@ width: 50%;
 
 padding: 1px;
 
-height: 600px; /* Should be removed. Only for demonstration */
+height: 200px; 
 
 }
-
-/* Clear floats after the columns */
 
 .row:after {
 
