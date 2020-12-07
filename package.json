@@ -29,7 +29,7 @@
     "dev": "vuepress dev",
     "build": "vuepress build"
     } 
-
+  },
 "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
