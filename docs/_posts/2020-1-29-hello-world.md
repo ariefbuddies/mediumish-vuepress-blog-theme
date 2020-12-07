@@ -7,7 +7,6 @@ featuredimg: https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=
 summary: https://lveyj8l-36o23q.instant.forestry.io/sewa-motor-jogja.html
 
 ---
-www.reverscore.com
 
 [https://lveyj8l-36o23q.instant.forestry.io/sewa-motor-jogja.html](https://lveyj8l-36o23q.instant.forestry.io/sewa-motor-jogja.html "https://lveyj8l-36o23q.instant.forestry.io/sewa-motor-jogja.html")
 
