@@ -130,8 +130,6 @@ If a markdown file contains a `<!-- more -->` comment, any content above the com
 
 Themes can enhance the Vue app that VuePress uses by exposing an `enhanceApp.js` file at the root of the theme. The file should `export default` a hook function which will receive an object containing some app-level values. You can use this hook to install additional Vue plugins, register global components, or add additional router hooks:
 
-<head>
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
@@ -141,8 +139,6 @@ Themes can enhance the Vue app that VuePress uses by exposing an `enhanceApp.js`
 box-sizing: border-box;
 
 }
-
-/* Create two equal columns that floats next to each other */
 
 .column {
 
@@ -169,8 +165,6 @@ clear: both;
 }
 
 </style>
-
-</head>
 
 <body>
 
