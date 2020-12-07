@@ -3,9 +3,7 @@ title: Sewa Motor Jogja
 description: Sewa motor untuk wong jogja
 
 ---
-Berikut ini adalah
-
-<!DOCTYPE html>
+Berikut ini adalah daftar motor yang terdapat di garasi kami
 
 <html>
 
