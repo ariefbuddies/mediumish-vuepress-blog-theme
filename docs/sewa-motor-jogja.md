@@ -28,38 +28,6 @@ The compiled content of the current `.md` file being rendered will be available 
 
 * [Markdown Slot](../guide/markdown-slot.md)
 
-<style>
-
-\* {
-
-box-sizing: border-box;
-
-}
-
-.column {
-
-float: center;
-
-width: 50%;
-
-padding: 1px;
-
-height: 400px;
-
-}
-
-.row:after {
-
-content: "";
-
-display: table;
-
-clear: both;
-
-}
-
-</style>
-
 <body>
 
 <h2>Daftar Motor Rental</h2>
