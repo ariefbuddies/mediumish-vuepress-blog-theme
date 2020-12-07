@@ -73,8 +73,6 @@ clear: both;
     Pelajar 60 Ribu
     -------------
 
-![](/assets/img/avatar.png)
-
 </div>
 
 <div class="column" style="background-color:#bbb;">
