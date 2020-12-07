@@ -78,7 +78,8 @@ module.exports = {
         },
       ],
     },
-
+     dest: 'public',
+  }
     sitemap: {
       hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
     },
