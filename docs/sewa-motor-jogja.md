@@ -54,8 +54,10 @@ clear: both;
 
 <div class="column" style="background-color:#bbb;">
 
-    Honda Scoopy
-    Umum 75 Ribu
+\*HONDASCOOPY
+
+* 60 ribu
+* 70 ribu
 
 ![](/assets/img/sal.jpg)
 
