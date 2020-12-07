@@ -44,7 +44,7 @@ width: 50%;
 
 padding: 1px;
 
-height: 200px; 
+height: 200px;
 
 }
 
@@ -89,5 +89,3 @@ clear: both;
 </div>
 
 </body>
-
-![](/assets/img/11-08-22-eovwg91wmagevce.jpg)
