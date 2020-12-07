@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Bening Abadi Jogja',
-  base: '/',
+  base: 'https://mediumish-vuepress-blog-theme-beige.vercel.app/',
   dest: 'public',
   description: 'Sewa Motor Rental Mobil Penginapan Jogja',
   logo: './assets/img/logo.png',
