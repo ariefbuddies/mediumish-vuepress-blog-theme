@@ -28,7 +28,7 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build"
-    } 
+    ]
   }
 "husky": {
     "hooks": {
