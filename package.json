@@ -27,7 +27,7 @@
   ],
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build",
     "docs:build": "vuepress build docs --temp docs/.temp",
     "docs:dev": "vuepress dev docs --temp docs/.temp",
     "lint": "eslint . --ext .js,.vue",
