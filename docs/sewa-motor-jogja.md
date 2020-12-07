@@ -38,7 +38,7 @@ box-sizing: border-box;
 
 .column {
 
-float: left;
+float: center;
 
 width: 50%;
 
